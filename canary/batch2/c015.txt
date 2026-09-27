@@ -1,0 +1,3 @@
+PE4b294133aB2
+CANARY-134f64a674e9
+measurement fixture
