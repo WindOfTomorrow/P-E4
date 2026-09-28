@@ -1,8 +1,3 @@
-# P-E4 (measurement fixture)
+# P-E4
 
-This repository is a **temporary automated measurement fixture**.
-
-Each file contains a randomly generated, meaningless marker string.
-No marker corresponds to any real identifier, credential, project, or organisation.
-
-The contents are removed once the run completes.
+Measurement fixture retired 2026-09-28T19:04:42+08:00. Timestamps and raw responses are retained in the published dataset.
